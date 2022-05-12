@@ -1,6 +1,7 @@
 # 希尔排序
 # coding=utf-8
 # https://zhuanlan.zhihu.com/p/141822073
+# https://www.cnblogs.com/pythonbao/p/10793487.html
 
 def shell_sort(arr):
     """

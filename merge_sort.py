@@ -1,5 +1,6 @@
 # 归并排序
 
+
 # 方法一：自上而下的递归
 def merge_sort(arr):
     if len(arr) < 2:
